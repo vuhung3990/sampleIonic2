@@ -8,12 +8,11 @@ import { NavController } from 'ionic-angular';
   Ionic pages and navigation.
 */
 @Component({
-  templateUrl: 'build/pages/trang-2/trang-2.html',
+  templateUrl: 'build/pages/trang-2/trang-2.html'
 })
 export class Trang2Page {
 
   constructor(private nav: NavController) {
-
   }
 
 }
